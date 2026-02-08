@@ -64,8 +64,8 @@ I'm a **software development student** at **42 Madrid**, where I thrive on solvi
 
 <div align="center">
 
-### 🎮 [OverZenith](https://github.com/OverZenithTeam/OverZenith)
-**TypeScript** • Team collaboration project showcasing modern web development
+### 🚀 [OverZenith](https://github.com/OverZenithTeam/OverZenith)
+**TypeScript** • NASA Space Apps Challenge hackathon project - innovative solution built during intense collaboration
   
 ### 🧠 [Minishell](https://github.com/alejagom-gafreire/Minishell)
 **C** • Custom Unix shell implementation - diving deep into process management and system calls
@@ -88,15 +88,11 @@ I'm a **software development student** at **42 Madrid**, where I thrive on solvi
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gabrielfreiresimon/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&labelColor=0A66C2" alt="LinkedIn" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/ByteGab" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat-square&labelColor=181717" alt="GitHub" height="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:your.email@example.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&labelColor=EA4335" alt="Email" height="40"/>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:gabrielfreiresimon@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="50"/>
 </a>
 
 </div>
