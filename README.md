@@ -1,107 +1,67 @@
-<div align="center">
-  
-# 👨‍💻 Gabriel Freire Simón
+# Gabriel Freire Simón
 
-### `Software Developer` | `42 Madrid Student` | `Problem Solver`
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+digital+space;Building+elegant+solutions;One+commit+at+a+time" alt="Typing SVG" />
-
-</div>
+### `Software Developer` | `42 Madrid Student` | `Offensive Security`
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a **software development student** at **42 Madrid**, where I thrive on solving complex problems and building efficient systems from scratch. My journey in tech is driven by curiosity and a passion for **clean code**, **system-level programming**, and **continuous learning**.
+I am a software developer and a student at **42 Madrid**, where I have built most of my projects in **C and C++**: system tools, a Unix shell and an HTTP server. I also have professional experience in **full-stack web development**.
 
-- 🌱 Currently diving deep into **C programming** and **Unix systems**
-- 🎯 Focused on mastering **algorithms**, **data structures**, and **software architecture**
-- 💡 Always exploring new technologies and challenging myself with innovative projects
-- 🤝 Open to collaborations and contributing to **open-source** initiatives
+I am currently specializing in **offensive security**. I practice regularly in labs and publish my write-ups on this profile.
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
+## Tech Stack
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css" alt="Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,ts,js,bash,html,css" alt="Languages" />
+</p>
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,mysql,linux,vscode,github,bash" alt="Tools" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ByteGab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteGab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-  
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ByteGab&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-  
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ByteGab&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,nestjs,angular,mysql,postgres,vscode" alt="Tools" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-<div align="center">
+### [ft_transcendence — Honeypot + SIEM](https://github.com/honeypot-42/ft_transcendence/tree/develop)
 
-### 🚀 [OverZenith](https://github.com/OverZenithTeam/OverZenith)
-**TypeScript** • NASA Space Apps Challenge hackathon project - innovative solution built during intense collaboration
-  
-### 🧠 [Minishell](https://github.com/alejagom-gafreire/Minishell)
-**C** • Custom Unix shell implementation - diving deep into process management and system calls
-  
-### 🎨 [so_long](https://github.com/ByteGab/so_long)
-**C** • 2D game using MiniLibX - exploring graphics programming and game logic ⭐
-  
-### 📚 [libft](https://github.com/ByteGab/libft)
-**C** • Custom C library recreation - building blocks for every C programmer ⭐
-  
-### 🔀 [push_swap](https://github.com/ByteGab/push_swap)
-**C** • Sorting algorithm optimizer - mastering complexity and efficiency
+**TypeScript · Docker** • A honeypot network connected to a SIEM, with a custom dashboard for analyzing attacks. I work on the backend and the infrastructure in a team of five. *(In progress)*
 
-</div>
+### [Security Write-ups](https://github.com/ByteGab/security-writeups)
 
----
+**Markdown** • Step-by-step write-ups of the TryHackMe rooms I complete.
 
-## 📫 Let's Connect!
+### [webserv](https://github.com/Webserv-42/webserv)
 
-<div align="center">
+**C++** • An HTTP/1.1 server with non-blocking I/O, CGI and session management.
 
-<a href="https://www.linkedin.com/in/gabrielfreiresimon/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:gabrielfreiresimon@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="50"/>
-</a>
+### [Minishell](https://github.com/alejagom-gafreire/Minishell)
 
-</div>
+**C** • A Unix shell with pipes, redirections, heredoc and signal handling.
+
+### [Cub3D](https://github.com/gafreire-gomandam/Cub3D)
+
+**C** • A raycasting engine inspired by Wolfenstein 3D.
+
+### [OverZenith](https://github.com/OverZenithTeam/OverZenith)
+
+**TypeScript** • A web platform built for the NASA Space Apps Challenge hackathon.
+
+You can find all my 42 Madrid projects in [**42-madrid**](https://github.com/ByteGab/42-madrid).
 
 ---
 
-<div align="center">
+## Contact
 
-**Thanks for stopping by!** 🚀  
-*Feel free to explore my repositories and don't hesitate to reach out!*
-
-</div>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabrielfreiresimon/)
+&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gabrielfreiresimon@gmail.com)
+&nbsp;
+[<img src="assets/tryhackme.svg" alt="TryHackMe" width="48" />](https://tryhackme.com/p/ByteGab)
